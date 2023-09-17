@@ -5,6 +5,7 @@
 
 Проект контейнезирован в docker.
 ## Чтобы собрать образ: 
+!Важно: папки images и predict необходимо очистить от файлов .gitkeep (эти файлы нужны для демонстрации этих папок в репозитории)
 ```bash
 git clone https://github.com/Szirx/mis_test.git
 cd mis_test
